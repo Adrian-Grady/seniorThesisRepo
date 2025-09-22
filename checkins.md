@@ -2,19 +2,18 @@
 
 ### This week I worked on:
 
-[Your answer here]
+Understanding the library and implementing base functionality(i.e. piece array/getter/mover, basic heuristic)
 
 ### This week I learned:
 
-[Your answer here]
+Primarily, just how the library actually functions and what it covers and doesn't cover.
 
 ### My successes this week were:
-
-[Your answer here]
+I got my core objectives done.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+The library is a little bit more limited than I'd initially thought, which'll mean more work for me.
 
 ---
 
