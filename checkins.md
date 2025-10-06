@@ -21,16 +21,13 @@ The library is a little bit more limited than I'd initially thought, which'll me
 ### This week I worked on:
 
 [Your answer here]
-
-### This week I learned:
-
-[Your answer here]
-
-### My successes this week were:
+The basics of the human UI
 
 [Your answer here]
+I have a base functionality working- it's still a little clinky, and it's generally not ideal, but it does fundamentally work. I need to optimize it better.
 
-### The challenges I faced this week were:
+[Your answer here]
+There's a lot of edge cases in chess- castling, en passant, promotion, etc- that I need to cover in better detail, both from a programming perspective and from a user interface perspective.
 
 [Your answer here]
 
@@ -38,16 +35,13 @@ The library is a little bit more limited than I'd initially thought, which'll me
 
 ## Week 3 Summary (MM/DD/YYYY)
 ### This week I worked on:
-
-[Your answer here]
+Getting an extremely simplistic version of the scoring heuristic functional
 
 ### This week I learned:
-
-[Your answer here]
+Some more about the library, but mostly just thinking about how to actually score positions in chess.
 
 ### My successes this week were:
-
-[Your answer here]
+I did get a very, very, *very* simplistic version of the AI working. It's nothing grand, but it's at least enough to successfully take enemy pieces and move with something vaguely resembling intention.
 
 ### The challenges I faced this week were:
 
